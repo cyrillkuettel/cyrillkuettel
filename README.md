@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![alt text](background_sea_edge.png)
+
+
+
 <!--
 **cyrillkuettel/cyrillkuettel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
