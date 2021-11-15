@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](background_sea_edge_final.png)
+![img](background_sea_edge_final.png)
 
 
 
