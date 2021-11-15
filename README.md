@@ -4,6 +4,9 @@
 
 
 
+"I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees a creation of the brain unfolding to success"   ~Nikola Tesla
+
+
 <!--
 **cyrillkuettel/cyrillkuettel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
