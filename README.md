@@ -13,7 +13,7 @@ What my motivation boils down to (from an engineering perspective) is that <i>th
 - Artificial Intelligence 
 - Reading / learning new things
 
-<br/><br/>
+<br/>
 
 > I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees a creation of the brain unfolding to success"   ~Nikola Tesla
 
