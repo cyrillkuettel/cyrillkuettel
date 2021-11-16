@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cyrill<img width="30px" src="https://github.com/cyrillkuettel/cyrillkuettel/blob/main/img/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Cyrill <img width="30px" src="https://github.com/cyrillkuettel/cyrillkuettel/blob/main/img/Hi.gif"></h1>
 
 
 ![img](background_sea_edge_resized_75_percent.png)
