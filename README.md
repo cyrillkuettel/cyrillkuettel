@@ -1,4 +1,4 @@
-# Hi, I'm Cyrill 👋🏾
+<h1 align="center">Hi, I'mCyrill<img width="30px" src=""></h1>
 
 
 ![img](background_sea_edge_resized_75_percent.png)
