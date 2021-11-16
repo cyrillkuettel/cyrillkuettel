@@ -7,7 +7,7 @@
 I have been absolutely fascinated with coding since age fourteen. Most of the things I know I learned from first-hand experience.
 What my motivation boils down to (from an engineering perspective) is that <i>theory often follows invention.</i> Engineering, say inventing new artifacts, that's where the creative process happens. That's where we have orginality, boldness and nonconformity. I enjoy ingenious invententions, they inspire me.
 
-###  Things I'm interested in
+###  Other things I'm interested in
 - Chess
 - Artificial Intelligence 
 - Reading / learning new things
