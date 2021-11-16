@@ -1,7 +1,7 @@
 # Hi there 👋🏾
 
 
-![img](background_sea_edge_transparent.png)
+![img](background_sea_edge_transparent_resized_75.png)
 
 
 Hi! I'm Cyrill and I have been absolutely fascinated with coding since age fourteen. Most of the things I know I learned from first-hand experience.
