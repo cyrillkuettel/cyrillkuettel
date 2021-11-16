@@ -9,7 +9,7 @@ What my motivation boils down to (from an engineering perspective) is that <i>th
 
 ###  Things I'm interested in
 - Chess
-- Artifial Intelligence 
+- Artificial Intelligence 
 - Reading / learning new things
 
 <br/><br/>
