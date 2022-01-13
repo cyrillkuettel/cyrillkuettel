@@ -4,7 +4,7 @@
 ![img](background_sea_edge_resized_75_percent_cut_at_bottom.png)
 
 
-I'm a software developer. I mainly write Java and Python applications. I <i>really</i> like building things.   
+I enjoy programming. I <i>really</i> like building things.   
 I have been absolutely fascinated with coding since age fourteen. Most of the things I know I learned from first-hand experience.
 
 I enjoy ingenious invententions, they inspire me.
