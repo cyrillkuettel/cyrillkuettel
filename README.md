@@ -13,4 +13,3 @@ Ingenious invententions inspire me.
 
 > I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees a creation of the brain unfolding to success"   ~Nikola Tesla
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cyrillkuettel&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
