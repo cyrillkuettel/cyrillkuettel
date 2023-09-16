@@ -27,12 +27,14 @@ AhsMAAoJEAON7lENPEliybkA/2HfFY2q+DtRGp0zy4fOkpsdQAOlN0wYpQkKKQms
  cyrillkuettel [at] gmail.com
 </details>
 
-I enjoy programming.
-I <i>really</i> like building things.   
-I have been absolutely fascinated with coding since age fourteen. Most of the things I know I learned from first-hand experience.
-
-Ingenious invententions inspire me.
 
 
+>  The programmer, like the poet, works only slightly removed from pure
+   thought-stuff. He builds his castles in the air, from air, creating by
+   exertion of the imagination. Few media of creation are so flexible, so easy
+   to polish and rework, so readily capable of realizing grand conceptual
+   structures.... Yet the program construct, unlike the poet's words, is real in
+   the sense that it moves and works, producing visible outputs separate from
+   the construct itself. — Frederick P. Brooks, The Mythical Man-Month: Essays on Software Engineering
+   
 
-> I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees a creation of the brain unfolding to success"
