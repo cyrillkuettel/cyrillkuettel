@@ -33,7 +33,7 @@ AhsMAAoJEAON7lENPEliybkA/2HfFY2q+DtRGp0zy4fOkpsdQAOlN0wYpQkKKQms
    thought-stuff. He builds his castles in the air, from air, creating by
    exertion of the imagination. Few media of creation are so flexible, so easy
    to polish and rework, so readily capable of realizing grand conceptual
-   structures.... Yet the program construct, unlike the poet's words, is real in
+   structures... Yet the program construct, unlike the poet's words, is real in
    the sense that it moves and works, producing visible outputs separate from
    the construct itself. — Frederick P. Brooks, The Mythical Man-Month: Essays on Software Engineering
    
